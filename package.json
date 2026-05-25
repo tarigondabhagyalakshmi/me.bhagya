@@ -1,0 +1,13 @@
+{
+  "name": "me.bhagya",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Bhagya",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "start": "npx serve ."
+  },
+  "keywords": ["portfolio", "personal-website"],
+  "author": "Bhagya",
+  "license": "MIT"
+}
